@@ -34,6 +34,7 @@
 		A2CFEDEC2D049BAF001FD79C /* TodayOfHistoryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2CFEDEB2D049BAF001FD79C /* TodayOfHistoryViewModel.swift */; };
 		A2CFEDEF2D05953C001FD79C /* SwifterSwift in Frameworks */ = {isa = PBXBuildFile; productRef = A2CFEDEE2D05953C001FD79C /* SwifterSwift */; };
 		A2CFEDF12D05E8BA001FD79C /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2CFEDF02D05E8BA001FD79C /* CustomButton.swift */; };
+		FFA662892D56AA2600259800 /* BMICalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFA662882D56AA2600259800 /* BMICalculatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		A2CFEDE92D049BA3001FD79C /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		A2CFEDEB2D049BAF001FD79C /* TodayOfHistoryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayOfHistoryViewModel.swift; sourceTree = "<group>"; };
 		A2CFEDF02D05E8BA001FD79C /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		FFA662882D56AA2600259800 /* BMICalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMICalculatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				A2CFEDD42D030D43001FD79C /* DemosView.swift */,
+				FFA662882D56AA2600259800 /* BMICalculatorView.swift */,
 				A2CFEDE72D0497A7001FD79C /* TodayOfHistory.swift */,
 				A2B033182CE2217D00A06994 /* ContentView.swift */,
 				A2CFEDC42D0300F1001FD79C /* TabbarView.swift */,
@@ -284,6 +287,7 @@
 				A2B0331D2CE2217D00A06994 /* ContentView.swift in Sources */,
 				A2B033242CE476E000A06994 /* ImageDemo.swift in Sources */,
 				A2CFEDCD2D03018C001FD79C /* WechatDemoViewModel.swift in Sources */,
+				FFA662892D56AA2600259800 /* BMICalculatorView.swift in Sources */,
 				A2CFEDF12D05E8BA001FD79C /* CustomButton.swift in Sources */,
 				A2CFEDD72D0336BF001FD79C /* MessagesEditView.swift in Sources */,
 				A2CFEDE82D0497A7001FD79C /* TodayOfHistory.swift in Sources */,
