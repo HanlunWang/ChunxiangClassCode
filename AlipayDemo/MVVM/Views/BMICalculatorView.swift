@@ -69,7 +69,7 @@ class BMICalculatorViewModel : ObservableObject {
     func calculateBMI() {
         isLoading = true
         let baseURL = "https://apis.juhe.cn/fapig/calculator/weight"
-        let apiKey = "65415521cbcdf6bb82a2e9400f0abb7b"
+        let apiKey = ""
         
         guard var components = URLComponents(string: baseURL) else { return }
         
